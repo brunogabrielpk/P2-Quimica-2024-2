@@ -1,4 +1,4 @@
-P2 - PTrabalho de Programação em Go
+# P2 - Trabalho de Programação em Go
 
 # Objetivo: 
 Este trabalho visa proporcionar aos alunos a oportunidade de familiarizarem-se com a linguagem de programação Go através da análise e explicação de um código pré-existente.
