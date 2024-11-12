@@ -28,6 +28,8 @@ Após testar e entender o código funcionando, elabore um documento de texto exp
 Após a entrega dos trabalhos, o professor (no caso eu) elaborará alguns questionamentos para validar o conhecimento dos alunos baseado no documento enviado. 
 Quanto melhor a qualidade do documento enviado, menos questionamentos serão elaborados. 
 
-Prazo de entrega: 16/10/2024
-Questões: 19/10/2024
+Prazo de entrega: 19/11/2024
+Questões: 26/11/2024
+
+O trabalho poderá ser realizado em grupos de até 3 pessoas
 Envie o documento para o meu email 31544@aems.edu.br
